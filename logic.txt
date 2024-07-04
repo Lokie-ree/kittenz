@@ -1,0 +1,23 @@
+Initial Game - API call to get kittens (6, 8, 10 ,12)
+
+Pull 6 images first
+
+Array of pictures (hidden) JS and CSS
+
+Duplicate the images
+
+Random order (shuffle)
+
+assign them to kittenCards
+
+useState (cardOne and cardTwo) 
+
+when card is clicked assign kitten from kittenCard to cardOne or cardTwo
+
+
+
+if cardOne === cardTwo then add kitten to solvedKittenArray
+
+if cardOne != cardTwo then clear cardOne and cardTwo
+
+
